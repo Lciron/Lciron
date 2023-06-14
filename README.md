@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 👋 Olá! Meu nome é Lucas Anjos.
+<br>
 👀 Sou um progamador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 
